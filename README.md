@@ -1,2 +1,2 @@
 # jscourse
-Repo housing projects relating to JavaScript Udemy course
+Repo housing projects relating to my JavaScript Udemy course
